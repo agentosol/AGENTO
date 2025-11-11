@@ -1,7 +1,9 @@
 # 🚀 AGENTO - AI-Powered Solana Trading Terminal
 
-<div align="cent<img width="1042" height="690" alt="AGENTOSOL" src="https://github.com/user-attachments/assets/a60ce363-7b1a-4b6d-aa42-b6ef4abf1bd6" />
-er">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a60ce363-7b1a-4b6d-aa42-b6ef4abf1bd6" alt="AGENTOSOL" width="1042" />
+</p>
+
 
 
 
