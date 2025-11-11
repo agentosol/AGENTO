@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
 [![Redis](https://img.shields.io/badge/Redis-7.0+-red)](https://redis.io/)
 
-[Features](#-features) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Community](#-Community & Support)
+[Features](#-features) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Community](#-community)
 
 </div>
 
@@ -210,18 +210,6 @@ const trade = await client.buyToken({
 
 ---
 
-## 🗺️ Roadmap
-
-### ✅ Phase 1: Core Infrastructure (Completed)
-
-- [x] Multi-provider AI architecture
-- [x] Real-time WebSocket communication
-- [x] Redis caching system
-- [x] MCP blockchain integration
-- [x] Token analysis tools
-- [x] Sniper detection
-- [x] Basic trading execution
-
 ### 🚧 Phase 2: Beta Launch (Current)
 
 - [x] Streaming responses for reduced latency
@@ -334,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌐 Community & Support
+## 🌐 Community
 
 - **X**: [@AGENTOAI](https://twitter.com/AGENTOSOL)
 - **Documentation**: [docs.AGENTO.io](https://docs.AGENTO.io)
