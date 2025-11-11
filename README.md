@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
 [![Redis](https://img.shields.io/badge/Redis-7.0+-red)](https://redis.io/)
 
-[Features](#-features) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Roadmap](#-roadmap) • [Community](#-community)
+[Features](#-features) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Community](#-Community & Support)
 
 </div>
 
@@ -336,8 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Community & Support
 
-- **Discord**: [Join our community](https://discord.gg/AGENTO)
-- **Twitter**: [@AGENTOAI](https://twitter.com/AGENTOai)
+- **X**: [@AGENTOAI](https://twitter.com/AGENTOSOL)
 - **Documentation**: [docs.AGENTO.io](https://docs.AGENTO.io)
 - **Support**: support@AGENTO.io
 
@@ -363,6 +362,6 @@ AGENTO is a trading tool and does not provide financial advice. Cryptocurrency t
 
 **Built with ❤️ by the AGENTO Team**
 
-[Website](https://AGENTO.io) • [Documentation](https://docs.AGENTO.io) • [Twitter](https://twitter.com/AGENTOai) • [Discord](https://discord.gg/AGENTO)
+[Website](https://agentosol.fun) • [Documentation](https://docs.AGENTO.io) • [X](https://twitter.com/agentosol) 
 
 </div>
