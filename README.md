@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Community
 
-- **X**: [@AGENTOAI](https://twitter.com/AGENTOSOL)
+- **X**: [@AGENTOSOL](https://twitter.com/AGENTOSOL)
 - **Documentation**: [docs.AGENTO.io](https://docs.AGENTO.io)
 - **Support**: support@AGENTO.io
 
